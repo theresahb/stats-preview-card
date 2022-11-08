@@ -13,7 +13,7 @@ CSS grid
 
 ## Links
 
-- [Live link](https://theresahb.github.io/insure-landing-page/)
+- [Live link](https://theresahb.github.io/stats-preview-card/)
 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
